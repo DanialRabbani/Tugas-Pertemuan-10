@@ -1,3 +1,6 @@
+//Danial Rabbani W.S
+//220102022
+
 using System;
 
 class Program

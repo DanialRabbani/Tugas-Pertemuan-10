@@ -1,0 +1,9 @@
+//Danial Rabbani W.S
+//220102022
+
+let panjang = parseFloat(prompt(Masukkan panjang));
+let lebar = parseFloat(prompt(Masukkan lebar));
+
+let luas = panjang  lebar;
+
+console.log(Luas persegi panjang adalah  + luas);

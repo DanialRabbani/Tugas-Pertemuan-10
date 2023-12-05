@@ -1,0 +1,9 @@
+//Danial Rabbani W.S
+//220102022
+
+panjang = float(input("Masukkan panjang: "))
+lebar = float(input("Masukkan lebar: "))
+
+luas = panjang * lebar
+
+print("Luas persegi panjang adalah:", luas)
